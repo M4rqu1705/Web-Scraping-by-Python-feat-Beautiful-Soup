@@ -3,9 +3,10 @@ This repository includes the presentation used in the ACM - CSE Chapter workshop
 
 ## Links
 
-- [Codepen with HTML example](https://codepen.io/m4rqu1705/pen/KKzKNMg?editors=1000)
-- [Replit Python 3](https://repl.it/languages/python3)
-- [Replit with final code (only open AFTER workshop)](https://repl.it/@M4rqu1705/Web-Scraping-with-Beautiful-Soup-Example-Code)
+1) [Codepen with HTML example](https://codepen.io/m4rqu1705/pen/KKzKNMg?editors=1000)
+2) [List of CSS selectors](https://www.w3schools.com/cssref/css_selectors.asp)
+3) [Replit Python 3](https://repl.it/languages/python3)
+4) [Replit with final code (only open AFTER workshop)](https://repl.it/@M4rqu1705/Web-Scraping-with-Beautiful-Soup-Example-Code)
 
 ## References
 What follows is a list of important links used throughout the preparation of this workshop
