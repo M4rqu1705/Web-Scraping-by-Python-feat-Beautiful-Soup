@@ -11,9 +11,12 @@ This repository includes the presentation used in the ACM - CSE Chapter workshop
 ## References
 What follows is a list of important links used throughout the preparation of this workshop
 
--  [How Google's search engine makes use of Web Crawling](https://www.google.com/search/howsearchworks/crawling-indexing/)
--  [Some applications of Web Scraping](https://www.synerzip.com/blog/web-scraping-introduction-applications-and-best-practices/)
+- [How Google's search engine makes use of Web Crawling](https://www.google.com/search/howsearchworks/crawling-indexing/)
+- [Some applications of Web Scraping](https://www.synerzip.com/blog/web-scraping-introduction-applications-and-best-practices/)
 - [Explanation of what robots.txt is](https://moz.com/learn/seo/robotstxt)
 - [Beginner's  Guide to Glob patterns (helps to read more complex robots.txt)](https://www.malikbrowne.com/blog/a-beginners-guide-glob-patterns)
 - [List of CSS selectors](https://www.w3schools.com/cssref/css_selectors.asp)
--  [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [Beautiful Soup Documentation](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+## Other interesting links
+- [Utilize proxies with request modules](https://blog.scrapinghub.com/python-requests-proxy)
