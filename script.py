@@ -14,9 +14,11 @@ def get_word(word, output_file):
   # Retrieve website in the form of "resposne"
   response = requests.get(url, headers=headers)
 
+  # If the website was successfully retrieved ...
+  if response.ok:
   # Store website to html file inside websites folder
-  with open(output_file, "w+") as fp:
-    fp.write(response.text)
+      with open(output_file, "w+") as fp:
+        fp.write(response.text)
 
 
 
