@@ -1,6 +1,16 @@
 # Web Scraping by Python feat. Beautiful Soup
 This repository includes the presentation used in the ACM - CSE Chapter workshop about web scraping and it also includes the "ideal" code to be achieved by the end of the workshop.
 
+## Code Snippets
+- Headers for request  
+  
+`headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}`
+
+- Merriam-Webster link  
+  
+`https://www.merriam-webster.com/dictionary/`
+
+
 ## Links
 
 1) [Codepen with HTML example](https://codepen.io/m4rqu1705/pen/KKzKNMg?editors=1000)
